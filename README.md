@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAG4UlbrXcc/Qpezf3BTljhUQxWvSM4s0g/view?utm_content=DAG4UlbrXcc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha2cc2ca105" alt="Akshat Trivedi Banner" width="100%">
+  <img src="git banner.png" alt="Akshat Trivedi Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Akshat Trivedi 👋</h1>
