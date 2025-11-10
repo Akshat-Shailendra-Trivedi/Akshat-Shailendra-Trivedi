@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="git banner.png" alt="Akshat Trivedi Banner" width="100%">
+  <img src="Git Banner (1).png" alt="Akshat Trivedi Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Akshat Trivedi 👋</h1>
