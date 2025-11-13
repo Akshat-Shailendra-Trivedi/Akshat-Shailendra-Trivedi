@@ -68,7 +68,7 @@ With growing expertise in Python, SQL, Excel and Power BI, I work on transformin
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Akshat-Shailendra-Trivedi&show_icons=true&theme=react&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Shailendra-Trivedi&layout=compact&theme=react&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Shailendra-Trivedi&layout=compact&theme=react&hide_border=true&langs_count=6&custom_title=Top%20Languages:%20Python%20%7C%20SQL" />
 </p>
 
 ---
