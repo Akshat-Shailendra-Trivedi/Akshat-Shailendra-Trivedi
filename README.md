@@ -44,8 +44,8 @@ With growing expertise in Python, SQL, Excel and Power BI, I work on transformin
 ### **Data & Analytics**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=000)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
